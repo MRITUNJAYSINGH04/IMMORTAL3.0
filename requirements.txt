@@ -1,0 +1,37 @@
+pip install openai
+pip install python-dotenv
+pip install colorama
+pip install python
+api key
+
+### Linux/Mac:
+
+```
+python3 -m venv venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Windows:
+
+```
+python -m venv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+to run the program ==== paste all this in terminal. 
+
+### Linux/Mac:
+
+```
+. ./venv/bin/activate
+python main.py
+```
+
+### Windows:
+
+```
+venv\Scripts\activate.bat
+python main.py
+```
