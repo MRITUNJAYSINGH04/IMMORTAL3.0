@@ -7,7 +7,7 @@ This is a simple chat bot that uses the OpenAI apis to create a ChatGPT equivale
 
 Make sure you have python3 installed:
 
-```
+``
 python3 --version
 ```
 
